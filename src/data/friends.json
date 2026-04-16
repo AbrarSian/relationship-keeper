@@ -1,0 +1,98 @@
+[
+  {
+    "id": 10,
+    "name": "Tasnia Rahman",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1",
+    "email": "tasnia.rahman@gmail.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["cousin", "family"],
+    "bio": "My cousin. We talk often about family and future plans.",
+    "goal": 7,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 2,
+    "name": "Nusrat Jahan",
+    "picture": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+    "email": "nusrat.jahan@gmail.com",
+    "days_since_contact": 10,
+    "status": "almost due",
+    "tags": ["college", "close friend"],
+    "bio": "Met in college. We share notes and talk about career goals.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Hasan",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+    "email": "tanvir.hasan@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["gym", "fitness buddy"],
+    "bio": "Workout partner who keeps me consistent with fitness.",
+    "goal": 14,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 4,
+    "name": "Farhana Akter",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "email": "farhana.akter@gmail.com",
+    "days_since_contact": 16,
+    "status": "overdue",
+    "tags": ["neighbor", "family friend"],
+    "bio": "Grew up in the same neighborhood. Very supportive and kind.",
+    "goal": 10,
+    "next_due_date": "2026-03-31"
+  },
+  {
+    "id": 5,
+    "name": "Siam Ahmed",
+    "picture": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce",
+    "email": "siam.ahmed@gmail.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["university", "project partner"],
+    "bio": "Worked on multiple university projects together. Tech enthusiast.",
+    "goal": 7,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 6,
+    "name": "Mim Chowdhury",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "email": "mim.chowdhury@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["online friend", "design"],
+    "bio": "Met through a design community. Shares creative ideas regularly.",
+    "goal": 12,
+    "next_due_date": "2026-04-27"
+  },
+  {
+    "id": 7,
+    "name": "Rakibul Islam",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "email": "rakibul.islam@gmail.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["childhood", "football"],
+    "bio": "Childhood friend. Used to play football every evening.",
+    "goal": 21,
+    "next_due_date": "2026-03-27"
+  },
+  {
+    "id": 8,
+    "name": "Sadia Karim",
+    "picture": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+    "email": "sadia.karim@gmail.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["office", "colleague"],
+    "bio": "Office colleague who helps me stay productive and motivated.",
+    "goal": 10,
+    "next_due_date": "2026-04-22"
+  }
+]
