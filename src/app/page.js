@@ -17,7 +17,7 @@ export default async function Home() {
   const needAttention = friends.filter((friend) => friend.status !== "on-track").length;
   const interactionsThisMonth = friends.filter((friend) => friend.days_since_contact <= 14).length * 2;
   return (
-    <main className="min-h-screen bg-[#f6f8f8] px-4 pt-4 md:px-12 md:pt-3.5">
+    <main className="min-h-screen bg-[#f6f8f8] px-4 pb-16 pt-4 md:px-12 md:pb-24 md:pt-3.5">
       <div className="mx-auto flex flex-col w-full max-w-5xl items-start justify-between gap-4 sm:flex-row sm:gap-0">
         <Image src="/logo.png" alt="KeenKeeper logo" width={141} height={32} priority />
 
